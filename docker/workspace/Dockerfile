@@ -1529,4 +1529,4 @@ RUN apt-get clean && \
     rm /var/log/lastlog /var/log/faillog
 
 # Set default work directory
-WORKDIR /var/www
+WORKDIR /var/www/projects

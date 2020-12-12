@@ -1,0 +1,12 @@
+.idea
+/data
+.DS_Store
+.env
+.docker-sync
+/docker/nginx/ssl/*.crt
+/docker/nginx/ssl/*.key
+/docker/nginx/ssl/*.csr
+/.devcontainer/*
+!/.devcontainer/devcontainer.example.json
+!/.devcontainer/docker-compose.extend-example.yml
+docker-compose.custom.yml

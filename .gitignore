@@ -6,6 +6,7 @@
 /docker/nginx/ssl/*.crt
 /docker/nginx/ssl/*.key
 /docker/nginx/ssl/*.csr
+/logs/nginx/
 /.devcontainer/*
 !/.devcontainer/devcontainer.example.json
 !/.devcontainer/docker-compose.extend-example.yml
